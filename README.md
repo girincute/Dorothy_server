@@ -4,7 +4,8 @@
 
 ## Website
 
-http://dorothy.wisemuji.com/
+[Dorothy 웹사이트](http://dorothy.wisemuji.com/)  
+[dorothy front-end repository](https://github.com/girincute/dorothy)
 
 ## Features
 
